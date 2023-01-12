@@ -1,3 +1,5 @@
+#2023-JAN-11
+#rjs
 #Random password generator exercise
 #https://www.101computing.net/random-password-generator/
 
