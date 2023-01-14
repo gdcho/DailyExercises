@@ -1,4 +1,4 @@
 # Daily Exercises
-Daily simply exercises in Python and practicing git commands
+Daily simple exercises in Python and practicing git commands
 
 https://pythonprinciples.com/challenges/
